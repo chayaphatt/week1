@@ -14,16 +14,12 @@
 
 ---
 
-## 🚀 วิธีเปิดดูงาน (How to View & Run)
+## How to View & Run
 
-สามารถเปิดดูได้ 3 รูปแบบตามสะดวกเลยค่ะ:
 
-### 1. ดูผลงานออนไลน์ผ่านหน้าเว็บจริง (ง่ายที่สุด!)
+### 1. ดูผลงานออนไลน์ผ่านหน้าเว็บจริง 
 👉 **[คลิกตรงนี้เพื่อดูผลงานจริงบน GitHub Pages](https://chayaphatt.github.io/week1/)**
 
 ---
 
-### 2. รันบนเครื่องคอมพิวเตอร์ผ่าน VS Code
-1. โคลนโปรเจกต์ลงเครื่องด้วย Terminal:
-   ```bash
-   git clone [https://github.com/chayaphatt/week1.git](https://github.com/chayaphatt/week1.git)
+
